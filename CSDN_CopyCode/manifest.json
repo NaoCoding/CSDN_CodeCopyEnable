@@ -1,0 +1,15 @@
+{
+    "manifest_version": 2,
+    "name": "CSDN Code Copy Enable",
+    "description": "By NaoCoding , Andy Lu NTNUCSIE 116",
+    "version": "1.0",
+    "content_scripts": [
+        {
+            "matches": ["https://blog.csdn.net/*"],
+            "js": ["content.js"],
+            "run_at": "document_end"
+        }
+    ],
+    "permissions": ["activeTab", "https://ajax.googleapis.com/"]
+
+}
