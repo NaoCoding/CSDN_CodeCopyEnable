@@ -1,5 +1,6 @@
 # CSDN_CodeCopyEnable
-chrome擴充元件自動讓CSDN的程式碼可以被複製
+chrome擴充元件自動讓CSDN的程式碼可以被複製<br><br>
+[Link](https://github.com/NaoCoding/CSDN_CodeCopyEnable/tree/main/CSDN_CopyCode)
 
 ### 使用方法
 ```
